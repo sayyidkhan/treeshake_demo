@@ -1,0 +1,1 @@
+(()=>{"use strict";exports.my_variable="this is a string",exports.default=21})();
